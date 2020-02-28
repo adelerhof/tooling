@@ -1,2 +1,3 @@
-# tooling
-Collection of nifty tools
+# Tooling
+
+A collection of nifty tools
