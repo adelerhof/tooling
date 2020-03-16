@@ -1,4 +1,4 @@
-# Loadtest
+# Locust
 
 Install `python 3.7+` and `pip`.
 
