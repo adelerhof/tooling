@@ -19,7 +19,7 @@ ipython
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.16.0
-Jinja2==3.1.5
+Jinja2==3.1.6
 jsonschema==3.2.0
 jupyter-client==5.3.4
 jupyter-core==4.6.2
