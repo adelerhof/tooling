@@ -84,7 +84,7 @@ psutil==7.2.1
 ptyprocess==0.7.0
 pure_eval==0.2.3
 pycparser==2.23
-Pygments==2.19.2
+Pygments==2.20.0
 pyrsistent==0.20.0
 PySocks==1.7.1
 pytest==9.0.2
