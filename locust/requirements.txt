@@ -63,7 +63,7 @@ locust==2.43.0
 MarkupSafe==3.0.3
 matplotlib-inline==0.2.1
 mistune==3.2.1
-msgpack==1.1.2
+msgpack==1.2.1
 nbclient==0.10.4
 nbconvert==7.17.1
 nbformat==5.10.4
