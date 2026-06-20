@@ -9,7 +9,7 @@ babel==2.17.0
 backcall==0.2.0
 beautifulsoup4==4.14.3
 bidict==0.23.1
-bleach==6.3.0
+bleach==6.4.0
 blinker==1.9.0
 brotli==1.2.0
 certifi==2026.1.4
